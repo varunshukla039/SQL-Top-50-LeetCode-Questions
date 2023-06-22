@@ -26,4 +26,5 @@ Each question is accompanied by a detailed problem statement, along with sample 
 
 Whether you are preparing for a technical interview, brushing up on SQL skills, or simply interested in practicing SQL problem-solving, this repository will be a valuable asset. It provides a hands-on learning experience, guiding you through the intricacies of SQL and helping you become more proficient in writing efficient and effective database queries.
 
+
 ****Join the SQL Top 50 LeetCode Questions repository today and elevate your SQL abilities to new heights!****
